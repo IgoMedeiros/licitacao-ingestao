@@ -75,4 +75,4 @@ pip freeze > requirements.txt
 ```
 
 # Crawl
-As informações especificas para rodar e utilizar o crawl estão no arquivo [README.md](/crawl//README.md) do diretório crawl.
+As informações especificas para rodar e utilizar o crawl estão no arquivo [README.md](/crawl/) do diretório crawl.
